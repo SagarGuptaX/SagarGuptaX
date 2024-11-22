@@ -14,3 +14,5 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: I am male.
 - ⚡ Fun fact: If you read till last, then why not drop a message to me, I love to make friends.
 
+
+[![An image of @sg7907's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sg7907)](https://holopin.io/@sg7907)
