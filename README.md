@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on upgrading my Data Science skills.
+- 🔭 I’m currently working on upgrading my System Design,DSA and backend development skills.
 - 🌱 I’m currently learning Electrical & Communication Engineering.
 - 👯 I’m looking to collaborate on Open Source projects.
 - 🤔 I’m looking for help with awesome tech enthusiasts.
