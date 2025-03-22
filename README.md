@@ -1,18 +1,16 @@
-## Hi there 👋
+## Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome to my GitHub!
 
-<!--
-**sg7907/sg7907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sagar, an engineering student with a passion for **System Design, DSA, and Backend Development**.  
+I love exploring tech, solving complex problems, and occasionally diving into philosophical discussions.  
 
-Here are some ideas to get you started: -->
+### 🚀 About Me:
+- 🔧 **Currently leveling up** my skills in **System Design, DSA, and Backend Development**  
+- 📡 **Studying** Electrical & Communication Engineering  
+- 🤝 **Looking to collaborate** on Open Source projects  
+- 💡 **Love deep talks?** Ask me about philosophy!  
+- 🎯 **Mission:** To connect, learn, and build cool stuff together  
+- 📬 **Reach me** via email or LinkedIn (check my profile!)  
+- ⚡ **Fun Fact:** If you've read this far, why not drop a message? Let's connect!  
 
-- 🔭 I’m currently working on upgrading my System Design,DSA and backend development skills.
-- 🌱 I’m currently learning Electrical & Communication Engineering.
-- 👯 I’m looking to collaborate on Open Source projects.
-- 🤔 I’m looking for help with awesome tech enthusiasts.
-- 💬 Ask me about philosophical things, I like them.
-- 📫 How to reach me: My email address and LinkedIn profile should be near my photo.
-- 😄 Pronouns: I am male.
-- ⚡ Fun fact: If you read till last, then why not drop a message to me, I love to make friends.
-
-
-[![An image of @sg7907's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sg7907)](https://holopin.io/@sg7907)
+### 🎨 **Aesthetic Upgrade**
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%">
