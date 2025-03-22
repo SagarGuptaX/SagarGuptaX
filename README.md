@@ -12,5 +12,6 @@ I love exploring tech, solving complex problems, and occasionally diving into ph
 - 📬 **Reach me** via email or LinkedIn (check my profile!)  
 - ⚡ **Fun Fact:** If you've read this far, why not drop a message? Let's connect!  
 
-### 🎨 **Aesthetic Upgrade**
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%">
+### **Coding in Peace ✌️**
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
+
