@@ -12,5 +12,5 @@ I love exploring tech, solving complex problems, and occasionally diving into ph
 - 📬 **Reach me** via email or LinkedIn (check my profile!)  
 - ⚡ **Fun Fact:** If you've read this far, why not drop a message? Let's connect!  
 
-### **Hi! ✌️**
-<img src="./assets/to be hero x nice pose.gif" width="70%">
+### **NICE! ✌️**
+<img src="./assets/to be hero x nice pose.gif" width="70%" align="center">
